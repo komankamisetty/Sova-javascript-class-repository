@@ -9,3 +9,4 @@ let favorite_food = "pizza";
 console.log("My favorite food is " + favorite_food + "!");
 
 console.log(3.18 + " dogs " + x);
+// strings are a pieve of tex,t while numbers are either whole or decimal numbers
